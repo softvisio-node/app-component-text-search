@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.2.32 (2026-09-07)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix sql select into (● [edaa147](https://github.com/corejslib/app-text-search/commit/edaa147); 👬 zdm)
+
+Compare with the previous release: [v2.2.31...v2.2.32](https://github.com/corejslib/app-text-search/compare/v2.2.31...v2.2.32)
+
 ### v2.2.31 (2026-09-06)
 
 **Code refactoring:**

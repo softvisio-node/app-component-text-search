@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/app-text-search",
-    "version": "2.2.31",
+    "version": "2.2.32",
     "description": "Text search application component",
     "keywords": [
         "text search"
