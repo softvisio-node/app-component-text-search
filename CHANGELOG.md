@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.2.33 (2026-09-15)
+
+**Other changes:**
+
+- build(deps): update app dependency (● [760b89e](https://github.com/corejslib/app-text-search/commit/760b89e); 👬 zdm)
+
+Compare with the previous release: [v2.2.32...v2.2.33](https://github.com/corejslib/app-text-search/compare/v2.2.32...v2.2.33)
+
 ### v2.2.32 (2026-09-07)
 
 **Bug fixes:**
